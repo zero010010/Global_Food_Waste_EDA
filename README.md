@@ -17,11 +17,11 @@ This project is an exploratory data analysis (EDA) on global food waste data. Th
 
 ## Installation
 
-To run this project, you will need to install the following libraries:
+To run this project, you will need Python 3.11 and the following libraries:
 
 - Pandas '2.1.1'
 - Matplotlib '1.26.0'
 - Seaborn '0.13.0'
 - Matplotlib '3.8.0'
 
-You can install these libraries using pip:# Global_Food_Waste_EDA
+You can install these libraries using pip:
